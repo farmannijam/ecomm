@@ -1,0 +1,113 @@
+{
+  "prodData": [
+    {
+      "id": 2,
+      "name": "tshirt full",
+      "category": "man",
+      "image": "../images/m2.jpg",
+      "price": "11"
+    },
+    {
+      "name": "Rado  1",
+      "price": "7888",
+      "category": "Shoes",
+      "image": "../images/ms6.webp",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "price": "1",
+      "category": "watch",
+      "image": "C:\\fakepath\\bg.jpg",
+      "id": 4
+    },
+    {
+      "name": "Farman Khandfdfff",
+      "price": "999",
+      "category": "woman",
+      "image": "C:\\fakepath\\e1.jpg",
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": "",
+      "category": "",
+      "image": "C:\\fakepath\\favicon.ico",
+      "id": 6
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "half tshirt",
+      "email": "half tshirt",
+      "password": "man"
+    },
+    {
+      "name": "farman",
+      "email": "farman@test.com",
+      "password": "123",
+      "price": "s",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "maan",
+      "email": "maan",
+      "password": "mmm",
+      "id": 5
+    },
+    {
+      "name": "maan",
+      "email": "maan",
+      "password": "maan",
+      "id": 6
+    },
+    {
+      "name": "akash",
+      "email": "akash@test.com",
+      "password": "mmm",
+      "id": 7
+    },
+    {
+      "name": "farman",
+      "email": "farman",
+      "password": "mmm",
+      "id": 8
+    }
+  ],
+  "contact": [
+    {
+      "name": "Farman Khan",
+      "email": "test@gmail.com",
+      "phone": "9897243172",
+      "message": "Hello sir I am Mohd Farman from India I am a UI Developer",
+      "id": 2
+    },
+    {
+      "name": "Akash Tyagi",
+      "email": "akash@test.com",
+      "phone": "9897012345",
+      "message": "Hello, Dear sir\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 3
+    },
+    {
+      "name": "rrrffr",
+      "email": "ffff",
+      "phone": "fff",
+      "message": "ff",
+      "id": 4
+    }
+  ]
+}
